@@ -10,7 +10,7 @@ Unser RADhaus entsteht im nordwestlichen Bereich des
 auf dem Baufeld 01.
 Das Eckgebäude liegt direkt am
 [Wilhelmsburger Loop](https://www.hamburg.de/politik-und-verwaltung/bezirke/mitte/themen/planen-bauen-wohnen/verkehr/loop-67416)
-mit Blick auf einen kleinen Park und den Aßmannkanal. 
+mit Blick auf einen kleinen Park und den Aßmannkanal.
 
 {{< figure src="/img/baufeld.png" width="500em" alt="Elbinsel" class="center-img" >}}
 
@@ -24,4 +24,10 @@ und Budgets realisiert werden. Unser Haus wird durch Angebote wie die Fahrradwer
 für Unverpacktes und Kaffee sowie ein offenes Programm für die Nachbarschaft lebendig und einladend sein.
 
 Darüber hinaus teilen wir uns das Baufeld mit drei weiteren Baugemeinschaften, mit denen wir gemeinsam das
-Freiraumkonzept im Innenhof entwickeln werden. 
+Freiraumkonzept im Innenhof entwickeln werden.
+
+## Vorläufige Renderings
+
+![Metro station Überseequartier](/img/scharabi1.jpg)
+
+![Metro station Überseequartier](/img/scharabi2.jpg)
