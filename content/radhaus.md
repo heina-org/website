@@ -33,3 +33,27 @@ Freiraumkonzept im Innenhof entwickeln werden.
     <img src="/img/scharabi2.jpg" alt="Visualisierung Ansicht aus dem Innenhof">
     <figcaption><i>Visualisierung Ansicht aus dem Innenhof. © Scharabi Architekten PartG mbB</i></figcaption>
 </figure>
+
+## Grundrisse
+
+### Erdgeschoss
+
+<figure>
+    <img src="/img/grundriss-eg-crop-hl.png" alt="Grundrisse EG">
+    <figcaption><i>Grundrisse EG © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
+
+### 1. Obergeschoss
+
+<figure>
+    <img src="/img/grundriss-1og-crop-hl.png" alt="Grundrisse 1.OG">
+    <figcaption><i>Grundrisse 1.OG © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
+
+### Dachgeschoss
+
+<figure>
+    <img src="/img/grundriss-dg-crop-hl.png" alt="Grundrisse DG">
+    <figcaption><i>Grundrisse DG © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
+
