@@ -80,4 +80,17 @@ body {
     }
 }
 
+.post-content figure > figcaption {
+    font-family: Barlow, sans-serif;
+    color: var(--primary);
+    font-size: 14px;
+    font-weight: regular;
+}
+
+.post-content figure > figcaption > p {
+    font-family: Barlow, sans-serif;
+    color: var(--secondary);
+    font-size: 14px;
+    font-weight: regular;
+}
 

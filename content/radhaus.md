@@ -12,7 +12,10 @@ Das Eckgebäude liegt direkt am
 [Wilhelmsburger Loop](https://www.hamburg.de/politik-und-verwaltung/bezirke/mitte/themen/planen-bauen-wohnen/verkehr/loop-67416)
 mit Blick auf einen kleinen Park und den Aßmannkanal.
 
-{{< figure src="/img/baufeld.png" width="500em" alt="Elbinsel" class="center-img" >}}
+<figure>
+    <img src="/img/scharabi1.jpg" alt="Visualisierung Blick vom Loop">
+    <figcaption><i>Visualisierung Blick vom Loop. © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
 
 Außenliegender Sonnenschutz, Fassadengrün, Dachgarten.
 Wir planen rund 20 Eigentumswohnungen in einem nachhaltigen Holz(hybrid)bau mit minimaler Haustechnik.
@@ -26,8 +29,7 @@ für Unverpacktes und Kaffee sowie ein offenes Programm für die Nachbarschaft l
 Darüber hinaus teilen wir uns das Baufeld mit drei weiteren Baugemeinschaften, mit denen wir gemeinsam das
 Freiraumkonzept im Innenhof entwickeln werden.
 
-## Vorläufige Renderings
-
-![Metro station Überseequartier](/img/scharabi1.jpg)
-
-![Metro station Überseequartier](/img/scharabi2.jpg)
+<figure>
+    <img src="/img/scharabi2.jpg" alt="Visualisierung Ansicht aus dem Innenhof">
+    <figcaption><i>Visualisierung Ansicht aus dem Innenhof. © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
