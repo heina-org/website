@@ -17,9 +17,9 @@ mit Blick auf einen kleinen Park und den Aßmannkanal.
     <figcaption><i>Visualisierung Blick vom Loop. © Scharabi Architekten PartG mbB</i></figcaption>
 </figure>
 
-Außenliegender Sonnenschutz, Fassadengrün, Dachgarten.
-Wir planen rund 20 Eigentumswohnungen in einem nachhaltigen Holz(hybrid)bau mit minimaler Haustechnik.
-Die Gesamtkosten belaufen sich geschätzt aktuell auf ca. 5.000 Euro pro Quadratmeter.
+Dachgarten, Fassadengrün, außenliegender Sonnenschutz.
+Wir planen 16 Eigentumswohnungen in einem nachhaltigen Holzhybridbau mit minimaler Haustechnik.
+Die Gesamtkosten belaufen sich geschätzt aktuell auf ca. 5.500 Euro pro Quadratmeter.
 
 Wir wünschen uns eine vielfältige Bewohner:innenschaft für unser Haus und wir berücksichtigen dies
 bei der Gewinnung neuer Mitglieder. Im Haus sollen Wohnungstypen für unterschiedliche Lebensphasen
@@ -36,7 +36,7 @@ Freiraumkonzept im Innenhof entwickeln werden.
 
 ## Grundrisse
 
-Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 28.04.2026).
+Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 29.05.2026).
 
 ### Erdgeschoss
 
