@@ -36,7 +36,7 @@ Freiraumkonzept im Innenhof entwickeln werden.
 
 ## Grundrisse
 
-Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 29.05.2026).
+Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 04.06.2026).
 
 ### Erdgeschoss
 
