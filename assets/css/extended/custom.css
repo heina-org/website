@@ -3,3 +3,76 @@
     justify-content: center;
     line-height: 1em;
 }
+
+/* Hero figure wrapper on start page */
+.hero-figure {
+    position: relative;
+    width: 100%;
+}
+
+.hero-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Circular "Grundrisse" button */
+.grundrisse-btn {
+    position: absolute;
+    top: -50px;
+    right: 20px;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    background: var(--col-yellow);
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.2;
+    gap: 2px;
+    margin: 0;
+    padding: 0;
+    z-index: 2;
+    text-decoration: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.grundrisse-btn .btn-label {
+    font-weight: 600;
+    font-size: 1.3em;
+    line-height: 1.2;
+    margin: 0;
+}
+
+.grundrisse-btn .btn-arrow {
+    font-size: 1.5em;
+    line-height: 1;
+    margin: 0;
+}
+
+.grundrisse-btn:hover {
+    transform: scale(1.05);
+    filter: brightness(0.92);
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+    .grundrisse-btn {
+        width: 110px;
+        height: 110px;
+        top: -14px;
+        right: -14px;
+    }
+
+    .grundrisse-btn .btn-label {
+        font-size: 0.95em;
+    }
+
+    .grundrisse-btn .btn-arrow {
+        font-size: 1.2em;
+    }
+}
