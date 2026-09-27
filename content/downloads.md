@@ -7,10 +7,6 @@ theme_color: "yellow"
 
 Hier könnt ihr Informationen über unsere Baugemeinschaft HeiNa, das Rathausviertel und die IBA Hamburg GmbH herunterladen.
 
-## HeiNa Material
-
-* [HeiNa Flyer PDF](/downloads/HeiNa_Flyer.pdf)
-
 ## Externe Links
 
 * [Agentur für Baugemeinschaften](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-stadtentwicklung-und-wohnen/themen/wohnen/bauen/baugemeinschaften)

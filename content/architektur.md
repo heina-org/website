@@ -13,13 +13,18 @@ Das Eckgebäude liegt direkt am
 mit Blick auf einen kleinen Park und den Aßmannkanal.
 
 <figure>
-    <img src="/img/scharabi1.jpg" alt="Visualisierung Blick vom Loop">
+    <img src="/img/Heina-Radhaus-Ansicht-Loop-C-Scharabi.jpg" alt="Visualisierung Blick vom Loop">
     <figcaption><i>Visualisierung Blick vom Loop. © Scharabi Architekten PartG mbB</i></figcaption>
 </figure>
 
 Dachgarten, Fassadengrün, außenliegender Sonnenschutz.
 Wir planen 16 Eigentumswohnungen in einem nachhaltigen Holzhybridbau mit minimaler Haustechnik.
-Die Gesamtkosten belaufen sich geschätzt aktuell auf ca. 5.500 Euro pro Quadratmeter.
+Die Gesamtkosten belaufen sich geschätzt aktuell auf ca. 5.300 Euro pro Quadratmeter.
+
+<figure>
+    <img src="/img/Heina-Radhaus-Visualisierung-Dachgarten-C-Scharabi.jpg" alt="Visualisierung Dachgarten">
+    <figcaption><i>Visualisierung Dachgarten. © Scharabi Architekten PartG mbB</i></figcaption>
+</figure>
 
 Wir wünschen uns eine vielfältige Bewohner:innenschaft für unser Haus und wir berücksichtigen dies
 bei der Gewinnung neuer Mitglieder. Im Haus sollen Wohnungstypen für unterschiedliche Lebensphasen
@@ -30,13 +35,13 @@ Darüber hinaus teilen wir uns das Baufeld mit drei weiteren Baugemeinschaften, 
 Freiraumkonzept im Innenhof entwickeln werden.
 
 <figure>
-    <img src="/img/scharabi2.jpg" alt="Visualisierung Ansicht aus dem Innenhof">
+    <img src="/img/Heina-Radhaus-Ansicht-Innenhof-C-Scharabi.jpg" alt="Visualisierung Ansicht aus dem Innenhof">
     <figcaption><i>Visualisierung Ansicht aus dem Innenhof. © Scharabi Architekten PartG mbB</i></figcaption>
 </figure>
 
 ## Grundrisse
 
-Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 04.06.2026).
+Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 01.10.2026).
 
 ### Erdgeschoss
 
@@ -45,7 +50,7 @@ Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 04.06.202
     <figcaption><i>Grundrisse EG © Scharabi Architekten PartG mbB</i></figcaption>
 </figure>
 
-### 1. Obergeschoss
+### 1. Obergeschoss / Regelgeschoss
 
 <figure>
     <img src="/img/grundriss-1og-crop-hl.png" alt="Grundrisse 1.OG">
@@ -53,6 +58,8 @@ Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 04.06.202
 </figure>
 
 ### Dachgeschoss
+
+(XS-Wohnung aktuell reserviert)
 
 <figure>
     <img src="/img/grundriss-dg-crop-hl.png" alt="Grundrisse DG">

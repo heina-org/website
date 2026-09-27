@@ -13,9 +13,9 @@ menu:
       name: KONZEPT
       url: /konzept/
       weight: 2
-    - identifier: radhaus
-      name: RADHAUS
-      url: /radhaus/
+    - identifier: architektur
+      name: ARCHITEKTUR
+      url: /architektur/
       weight: 3
     # - identifier: nachbarschaft
     #   name: NACHBARSCHAFT
