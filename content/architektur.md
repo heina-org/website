@@ -41,11 +41,13 @@ Freiraumkonzept im Innenhof entwickeln werden.
 
 ## Grundrisse
 
-Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 01.10.2026).
+Die grün markierten Wohnungen sind aktuell noch nicht vergeben (Stand 26.10.2026).
 
 ### Erdgeschoss
 
 ### Wohnung 1 — 103,10 m²
+
+(aktuell reserviert)
 
 Im Westen der Blick ins Grüne, im Osten die Terrasse zum Frühstücken. Die Ost-West-Ausrichtung nutzt beide Seiten des Tages. Im Inneren prägen Holzdecke und Holzböden die 2,90 m hohen Räume. Die Küche liegt zum Innenhof hin und ist vom Wohnbereich abgetrennt. Insgesamt gibt es vier Zimmer. Neben dem Bad mit Dusche gibt es ein separates Gäste-WC, außenliegender Sonnenschutz sorgt zusätzlich für Schatten und Sichtschutz.
 
@@ -58,6 +60,8 @@ Im Westen der Blick ins Grüne, im Osten die Terrasse zum Frühstücken. Die Ost
 
 ### Wohnung 2 — 84,86 m², 1. OG
 
+(aktuell reserviert)
+
 Die Nord-Süd-Ausrichtung sorgt für viel Licht über den ganzen Tag, Holzdecke und Holzböden prägen den Innenraum. Die Wohnung verfügt über drei Zimmer und einen Balkon, die Küche lässt sich bei Bedarf vom Wohnbereich abtrennen, dazu kommt ein rund 5 m² großer Abstellraum. Auch hier gibt es ein Bad mit Dusche und ein separates Gäste-WC, ergänzt durch außenliegenden Sonnenschutz. Die Raumhöhe liegt bei 2,65 m.
 
 <figure>
@@ -67,7 +71,7 @@ Die Nord-Süd-Ausrichtung sorgt für viel Licht über den ganzen Tag, Holzdecke 
 
 ### Dachgeschoss
 
-(XS-Wohnung aktuell reserviert)
+(aktuell reserviert)
 
 <figure>
     <img src="/img/grundriss-dg-crop-hl.png" alt="Grundrisse DG">
